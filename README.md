@@ -4,7 +4,7 @@
 - crawl_main_page.ipynb
 - crawl_detail_page.ipynb
 
-## 메인 페이지 테이블
+## crawl_main_page.ipynb
 ### accommodations_table (sample)
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/b765645c-1fd6-421b-843d-6fcf618412b6">
 
@@ -12,7 +12,7 @@
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/06e06ed1-1447-46dd-a04e-57c8224e8762">
 
 
-## 세부 페이지 테이블
+## crawl_detail_page.ipynb
 ### location_table (sample)
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/9a1465c2-d4cb-4144-b531-1f0cec1aae1d">
 
