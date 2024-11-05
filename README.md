@@ -1,6 +1,5 @@
 # 결과 예시
-.parquet 형식의 샘플 데이터 입니다.
-처리 시간이 긴 두 코드의 결과를 간단하게 보여줍니다.
+처리 시간이 긴 두 코드의 결과를 간단하게 표시
 - crawl_main_page.ipynb
 - crawl_detail_page.ipynb
 
